@@ -1,0 +1,2 @@
+# my-practice-project
+THIS IS MY PRACTICE PROJECT TO LEARN GIT AND GITHUB.
